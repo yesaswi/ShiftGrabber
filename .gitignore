@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.tox/
+.vscode/
+.vscode-test/
+.vscode-test-remote/
+.vscode-test-remote-logs
+.DS_Store
+*.pyc
